@@ -1,0 +1,14 @@
+Wired
+-----
+
+Wired TCP Westwood: 	./waf --run “scratch/wired --agent=Westwood”
+Wired TCP Veno: 	./waf --run “scratch/wired --agent=Veno”
+Wired TCP Vegas: 	./waf --run “scratch/wired --agent=Vegas”
+
+Wireless
+--------
+
+Wireless TCP Westwood: ./waf --run “scratch/wireless --agent=Westwood”
+Wireless TCP Veno: 	./waf --run “scratch/wireless --agent=Veno”
+Wireless TCP Vegas: 	./waf --run “scratch/wireless --agent=Vegas”
+
